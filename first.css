@@ -1,0 +1,33 @@
+#header{
+    background-color: blanchedalmond;
+    color:chocolate;
+}
+#top-align{
+
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+}
+#links{
+    display:flex;
+    flex-wrap: wrap;
+}
+#links>a{
+    padding: 10px;
+    color: coral;
+}
+#top{
+    display: flex;
+    justify-content: space-around;
+    padding: 50px;
+}
+#top-content{
+    max-width: 50%;
+}
+#imag{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+}
